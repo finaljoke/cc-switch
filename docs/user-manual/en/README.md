@@ -27,7 +27,8 @@ CC Switch User Manual
 │   ├── 3.2 Prompts Management
 │   ├── 3.3 Skills Management
 │   ├── 3.4 Session Manager
-│   └── 3.5 Workspace & Memory
+│   ├── 3.5 Workspace & Memory
+│   └── 3.6 Harness Architecture Guide
 │
 ├── 4. Proxy & High Availability
 │   ├── 4.1 Proxy Service
@@ -75,6 +76,7 @@ CC Switch User Manual
 | [3.3-skills.md](./3-extensions/3.3-skills.md) | Discover skills, install/uninstall, repository management |
 | [3.4-sessions.md](./3-extensions/3.4-sessions.md) | Session Manager: browse, search, resume, delete sessions |
 | [3.5-workspace.md](./3-extensions/3.5-workspace.md) | Workspace files and daily memory (OpenClaw) |
+| [harness-architecture.md](./harness-architecture.md) | Complete Harness Architecture Guide: Agent = Harness(Model) |
 
 ### 4. Proxy & High Availability
 

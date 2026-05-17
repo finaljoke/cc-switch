@@ -27,7 +27,8 @@ CC Switch ユーザーマニュアル
 │   ├── 3.2 Prompts プロンプト管理
 │   ├── 3.3 Skills スキル管理
 │   ├── 3.4 セッションマネージャー
-│   └── 3.5 ワークスペースとメモリー
+│   ├── 3.5 ワークスペースとメモリー
+│   └── 3.6 Harness アーキテクチャガイド
 │
 ├── 4. プロキシと高可用性
 │   ├── 4.1 プロキシサービス
@@ -75,6 +76,7 @@ CC Switch ユーザーマニュアル
 | [3.3-skills.md](./3-extensions/3.3-skills.md) | スキルの発見、インストール・アンインストール、リポジトリ管理 |
 | [3.4-sessions.md](./3-extensions/3.4-sessions.md) | セッションマネージャー：閲覧、検索、再開、削除 |
 | [3.5-workspace.md](./3-extensions/3.5-workspace.md) | ワークスペースファイルとデイリーメモリー（OpenClaw） |
+| [harness-architecture.md](./harness-architecture.md) | Harness アーキテクチャ完全ガイド：Agent = Harness(Model) |
 
 ### 4. プロキシと高可用性
 

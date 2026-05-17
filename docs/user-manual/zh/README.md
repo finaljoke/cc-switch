@@ -27,7 +27,8 @@
 │   ├── 3.2 Prompts 提示词管理
 │   ├── 3.3 Skills 技能管理
 │   ├── 3.4 会话管理器
-│   └── 3.5 工作区文件与每日记忆
+│   ├── 3.5 工作区文件与每日记忆
+│   └── 3.6 Harness 架构指南
 │
 ├── 4. 代理与高可用
 │   ├── 4.1 代理服务
@@ -75,6 +76,7 @@
 | [3.3-skills.md](./3-extensions/3.3-skills.md) | 发现技能、安装卸载、仓库管理 |
 | [3.4-sessions.md](./3-extensions/3.4-sessions.md) | 会话浏览、搜索过滤、恢复与删除 |
 | [3.5-workspace.md](./3-extensions/3.5-workspace.md) | OpenClaw 工作区文件、每日记忆 |
+| [harness-architecture.md](./harness-architecture.md) | Harness 架构完全指南：Agent = Harness(Model) |
 
 ### 4. 代理与高可用
 
